@@ -1,0 +1,22 @@
+{'baby growth': {'number': 1, 'example': ['when my baby was still a newborn']}}
+
+{
+'baby development': {'number': 6, 'example': ['tummy time', 'developmental stages', "developing baby's vision and building vocabulary", 'visual stimulation', 'learning tool', 'activity with baby']}, 
+'daily activities': {'number': 3, 'example': ['daily use', 'everyday', 'tracking skills with your baby']}, 
+'travel and mobility': {'number': 2, 'example': ['travel', 'stroller']}, 
+'language and skills': {'number': 2, 'example': ['learning language', 'work on different skills']}
+}
+
+{'baby': 17, 'child': 9, 'related': 4}
+
+{'gift': 2, 'education': 7, 'emotion': 2, 'toy': 1}
+
+{'borrowed from a friend': 1, "friend's recommendation": 1, 'stumbled across': 1}
+
+{'negative': 2, 'positive': 27}
+
+{'developmental benefits': 13, 'quality and design': 13, 'entertainment and engagement': 8}
+
+{'quality concerns': 1, 'language mismatch': 1}
+
+{'quality': 12, 'size': 5, 'color': 12, 'shapes': 2, 'thickness': 1, 'illustrations': 1, 'instructions': 1, 'images': 3, 'designs': 1, 'figures': 1, 'noises': 1, 'cards': 3, 'number': 1, 'progression': 1, 'language': 1, 'packs': 1, 'price': 1}
