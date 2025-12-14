@@ -1,7 +1,7 @@
 # amazon_product_review_analysis
 脚本的作用主要是基于用户画像多个维度量化分析亚马逊产品评论
 
-项目详情可参考《项目说明》和《分析方案》
+项目详情可参考master分支下的《项目说明》和《分析方案》
 
 直接在终端运行streamlit run main_frontend.py
 
